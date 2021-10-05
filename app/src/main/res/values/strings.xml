@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AntePrueba</string>
+
+    <string-array name="Ciudades">
+
+        <item> Linares </item>
+        <item> Talca </item>
+        <item> Cauquenes </item>
+        <item> Teno </item>
+
+    </string-array>
+
+</resources>
